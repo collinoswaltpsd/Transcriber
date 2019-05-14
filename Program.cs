@@ -12,7 +12,8 @@ namespace speech
             // <recognitionContinuousWithFile>
             // Creates an instance of a speech config with specified subscription key and service region.
             // Replace with your own subscription key and service region (e.g., "westus").
-            var config = SpeechConfig.FromSubscription("", "US East");
+
+            var config = SpeechConfig.FromSubscription(Environment.GetEnvironmentVariable("AZURE_SPEECH_KEY"), "eastus");
 
             var stopRecognition = new TaskCompletionSource<int>();
 

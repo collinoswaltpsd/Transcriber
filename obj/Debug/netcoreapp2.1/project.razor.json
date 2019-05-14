@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/collin/code/cs/Transcriber/speech.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
