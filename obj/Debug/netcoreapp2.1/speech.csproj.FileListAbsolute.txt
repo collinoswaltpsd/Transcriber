@@ -1,0 +1,11 @@
+/Users/collinoswalt/Code/cs/azure/speech/bin/Debug/netcoreapp2.1/speech.deps.json
+/Users/collinoswalt/Code/cs/azure/speech/bin/Debug/netcoreapp2.1/speech.runtimeconfig.json
+/Users/collinoswalt/Code/cs/azure/speech/bin/Debug/netcoreapp2.1/speech.runtimeconfig.dev.json
+/Users/collinoswalt/Code/cs/azure/speech/bin/Debug/netcoreapp2.1/speech.dll
+/Users/collinoswalt/Code/cs/azure/speech/bin/Debug/netcoreapp2.1/speech.pdb
+/Users/collinoswalt/Code/cs/azure/speech/obj/Debug/netcoreapp2.1/speech.csprojAssemblyReference.cache
+/Users/collinoswalt/Code/cs/azure/speech/obj/Debug/netcoreapp2.1/speech.csproj.CoreCompileInputs.cache
+/Users/collinoswalt/Code/cs/azure/speech/obj/Debug/netcoreapp2.1/speech.AssemblyInfoInputs.cache
+/Users/collinoswalt/Code/cs/azure/speech/obj/Debug/netcoreapp2.1/speech.AssemblyInfo.cs
+/Users/collinoswalt/Code/cs/azure/speech/obj/Debug/netcoreapp2.1/speech.dll
+/Users/collinoswalt/Code/cs/azure/speech/obj/Debug/netcoreapp2.1/speech.pdb
